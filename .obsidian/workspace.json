@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "224cc121cf76db9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f72c40703d54681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26b99736eb021e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cli/pfetch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e277397911ea56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cli/pfetch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc09e6bf620da0a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ac8d4081ad456f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd9c97b352f8c874",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ac71c113a25f50c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "882024689eb21cec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39fbe61b55281645",
+    "type": "split",
+    "children": [
+      {
+        "id": "e796082f3ae3537e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea96cd0a6d5b4a7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cli/pfetch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6acd9b6d41303a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cli/pfetch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2df742932a3327e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ede4a3c7fe7a640",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cli/pfetch.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b5e277397911ea56",
+  "lastOpenFiles": [
+    "Readme.md",
+    "cli/pfetch.md",
+    "().md"
+  ]
+}
