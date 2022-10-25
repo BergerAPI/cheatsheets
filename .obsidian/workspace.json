@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f72c40703d54681",
+        "id": "c84e2036ee474783",
         "type": "tabs",
         "children": [
           {
-            "id": "c26b99736eb021e9",
+            "id": "9791ec471ea8280f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cli/pfetch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5e277397911ea56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cli/pfetch.md",
+                "file": "linux/security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cli/pfetch.md",
+                "file": "linux/security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cli/pfetch.md",
+                "file": "linux/security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cli/pfetch.md"
+                "file": "linux/security.md"
               }
             }
           }
@@ -152,10 +139,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b5e277397911ea56",
+  "active": "9791ec471ea8280f",
   "lastOpenFiles": [
-    "Readme.md",
+    "linux/key-based-auth.md",
+    "linux/security.md",
     "cli/pfetch.md",
+    "Untitled.md",
+    "README.md",
+    "cli/iostat.md",
+    "Readme.md",
     "().md"
   ]
 }
