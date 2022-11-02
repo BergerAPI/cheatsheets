@@ -25,7 +25,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cli/docker.md",
+                "file": "docker/registry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf75fc3ab96fe2dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "98fd32441739d805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/registry.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cli/docker.md",
+                "file": "docker/registry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cli/docker.md",
+                "file": "docker/registry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cli/docker.md"
+                "file": "docker/registry.md"
               }
             }
           }
@@ -149,12 +171,11 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "369731dae01bb1bc",
   "lastOpenFiles": [
+    "docker/docker.md",
     "linux/security.md",
+    "docker/registry.md",
     "linux/key-based-auth.md",
     "cli/pfetch.md",
     "Untitled.md",
