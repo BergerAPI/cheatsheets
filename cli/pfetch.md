@@ -41,7 +41,7 @@ Everything that's shown can be toggled on or off via the ``PF_INFO`` variable.
 PF_INFO="ascii title os host kernel uptime pkgs memory" pfetch
 
 # Only The os and ascii
-PF_INFO="ascii of" pfetch
+PF_INFO="ascii os" pfetch
 ```
 
 ### Rest
