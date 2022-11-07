@@ -24,7 +24,7 @@ var cookieOptions = new CookieOptions()
 Now, one only need to append to cookie to the response, and return a status.
 
 ```C#
-Response.Cookies.Append("jwt_token", BuildToken(user), cookieOptions);
+Response.Cookies.Append("cookie_name", cookie_value, cookieOptions);
 
 return Ok();
 ```
