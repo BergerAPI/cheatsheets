@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cli/pfetch.md",
+                "file": "asp.net/cookies.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bf75fc3ab96fe2dc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           },
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cli/pfetch.md",
+                "file": "asp.net/cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cli/pfetch.md",
+                "file": "asp.net/cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cli/pfetch.md"
+                "file": "asp.net/cookies.md"
               }
             }
           }
@@ -160,15 +150,15 @@
   },
   "active": "9791ec471ea8280f",
   "lastOpenFiles": [
+    "docker/registry.md",
+    "asp.net/cookies.md",
+    "docker/docker.md",
+    "cli/pfetch.md",
     "linux/security.md",
     "LICENCE.md",
-    "docker/registry.md",
-    "docker/docker.md",
     "linux/key-based-auth.md",
-    "cli/pfetch.md",
     "Untitled.md",
     "README.md",
-    "cli/iostat.md",
-    "Readme.md"
+    "cli/iostat.md"
   ]
 }
