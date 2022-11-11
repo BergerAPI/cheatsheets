@@ -26,8 +26,9 @@ Windows doesn't have a default command which automatically does that, so one nee
 See [Windows Commands](../windows/commands)
 
 ```powershell
-scp id_rsa.pub user@address:~/temp_rsa.pub
+cd ~/.ssh
 
+scp id_rsa.pub user@address:~/temp_rsa.pub
 # IPv6
 scp -6 id_rsa.pub user@[address]:~/temp_rsa.pub
 ```
