@@ -23,6 +23,8 @@ After execution, it will prompt for the password of the user.
 ### Windows
 Windows doesn't have a default command which automatically does that, so one needs to get creative.
 
+See [Windows Commands](../windows/commands)
+
 ```powershell
 scp id_rsa.pub user@address:~/temp_rsa.pub
 
@@ -37,5 +39,6 @@ ssh user@address
 
 # On Server
 cd /home/user # Or wherever one moved the file to
-cat temp_rsa.pub >> ~/.shh/authorized_keys
+mkdir ~/.ssh/ # If it doesn't already exist
+cat temp_rsa.pub >> ~/.ssh/authorized_keys
 ```

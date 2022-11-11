@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b36b8cc993893670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2311196896acaa0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/registry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/commands.md",
+                "file": "linux/key-based-auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/commands.md",
+                "file": "linux/key-based-auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/commands.md"
+                "file": "linux/key-based-auth.md"
               }
             }
           }
@@ -160,16 +135,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b36b8cc993893670",
+  "active": "bd9c97b352f8c874",
   "lastOpenFiles": [
-    "docker/registry.md",
-    "linux/key-based-auth.md",
     "windows/commands.md",
+    "linux/key-based-auth.md",
+    "docker/registry.md",
+    "linux/security.md",
     "docker/docker.md",
     "docker/wordpress.md",
     "asp.net/cookies.md",
     "cli/pfetch.md",
-    "linux/security.md",
     "LICENCE.md",
     "Untitled.md"
   ]
