@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/cookies.md",
+                "file": "design/color.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/cookies.md",
+                "file": "design/color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/cookies.md",
+                "file": "design/color.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/cookies.md"
+                "file": "design/color.md"
               }
             }
           }
@@ -137,9 +137,9 @@
   },
   "active": "e727c504865ef993",
   "lastOpenFiles": [
+    "spring/cookies.md",
     "asp.net/cookies.md",
     "docker/wordpress.md",
-    "spring/cookies.md",
     "cli/pfetch.md",
     "linux/key-based-auth.md",
     "windows/commands.md",
