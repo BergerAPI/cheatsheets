@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "732512422b89db97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apps/min.io.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f536dd79cf483f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apps/wordpress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/color.md",
+                "file": "apps/min.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/color.md",
+                "file": "apps/min.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/color.md"
+                "file": "apps/min.io.md"
               }
             }
           }
@@ -135,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e727c504865ef993",
+  "active": "732512422b89db97",
   "lastOpenFiles": [
+    "apps/wordpress.md",
+    "apps/registry.md",
+    "apps/min.io.md",
+    "docker/docker.md",
+    "windows/commands.md",
+    "design/color.md",
     "spring/cookies.md",
     "asp.net/cookies.md",
-    "docker/wordpress.md",
     "cli/pfetch.md",
-    "linux/key-based-auth.md",
-    "windows/commands.md",
-    "docker/registry.md",
-    "linux/security.md",
-    "docker/docker.md",
-    "LICENCE.md"
+    "linux/key-based-auth.md"
   ]
 }
