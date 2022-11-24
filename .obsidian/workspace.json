@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/min.io.md",
+                "file": "design/color.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/min.io.md",
+                "file": "design/color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/min.io.md",
+                "file": "design/color.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/min.io.md"
+                "file": "design/color.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "732512422b89db97",
   "lastOpenFiles": [
+    "apps/min.io.md",
     "apps/wordpress.md",
     "apps/registry.md",
-    "apps/min.io.md",
     "docker/docker.md",
     "windows/commands.md",
     "design/color.md",
